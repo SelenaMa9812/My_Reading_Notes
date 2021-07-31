@@ -2,7 +2,7 @@
 ## 书籍
 #### [打开量化投资的黑箱](https://note.youdao.com/s/KWVhvv6M)
 #### 风险管理与金融机构
-#### Finding Alphas
+#### Finding Alphas-A Quantitative Approach to Building Trading Strategies
 #### Flash Boys
 #### 对冲基金顶尖交易人操盘案例
 #### 对冲基金入门
