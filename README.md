@@ -1,6 +1,6 @@
 # My Reading Notes
 ## 书籍
-#### [打开量化投资的黑箱](https://note.youdao.com/s/DpEDGZh9)
+#### [打开量化投资的黑箱](https://note.youdao.com/s/KWVhvv6M)
 #### 风险管理与金融机构
 #### Finding Alphas
 #### Flash Boys
