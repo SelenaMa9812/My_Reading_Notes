@@ -1,7 +1,7 @@
 # My Reading Notes
 ## 书籍
 #### [打开量化投资的黑箱](https://note.youdao.com/s/KWVhvv6M)
-#### [Algorithmic Trading and Quantitative Strategies](https://note.youdao.com/s/E5TySBJg)[源代码](https://github.com/NehrenD/algo_trading_and_quant_strategies)
+#### [Algorithmic Trading and Quantitative Strategies](https://note.youdao.com/s/E5TySBJg)[【源代码】](https://github.com/NehrenD/algo_trading_and_quant_strategies)
 #### 风险管理与金融机构
 #### Finding Alphas-A Quantitative Approach to Building Trading Strategies
 #### Flash Boys
